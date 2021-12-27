@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { SindInButton } from '../SignInButton'
 import styles from './styles.module.scss'
 
